@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.flex-item1 img{
+    align-items: center;
+    justify-content: center;   
+}
+.flex-item1{
+    background-color: #403D3D;
+    width: 150%;
+    height: 1000px;
+}
+
+.flex-item2{
+    background-color: #FF5A5A;
+    width: 150%;
+    height: 1000px;
+}
+
+.flex-item2 img{
+    align-items: center;
+    justify-content: center;
+    
+}
+.flex-container{
+    display: inline;
+}
+header img{
+    height: 55px;
+}
+nav a{
+    text-decoration: none;
+    font-size: 28px;
+    color:#403D3D;
+    text-align: right;
+    font-family: quicksand;
+    padding: 10px;
+}
+a:hover{
+    color: #FF5A5A;
+}
+nav{
+    background-color: white;
+    height: 45px;
+    text-align: right;
+    padding: 10px;
+}
+nav img{
+    float: left;
+}
+.container{
+    background-color: #ddd;
+}
+.flex-container{
+    display: flex;
+}
+.oliver img{
+    border-radius: 200px;
+    padding: 15px;
+    margin-top: 85px;
+}
+.oliver2 img{
+    border-radius: 200px;
+    padding: 15px;
+    margin-top: 85px;
+}
+.photoshop img{
+    align-items: center;
+    margin-left: 215px;
+    margin-top: 70px;
+    border-radius: 200px;
+}
+.adobexd img{
+    align-items: center;
+    margin-left: 215px;
+    margin-top: 70px;
+    border-radius: 200px;
+}
+.mark{
+    color: #FF5A5A
+}
+.oliver2{
+    align-items: center;
+}

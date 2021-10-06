@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+  .text {
+    font-size: 20px;
+    padding-left: 20px;
+  }
+  body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 28px;
+    color:#403D3D;
+    text-align: right;
+    font-family: quicksand;
+    padding: 10px;
+}
+a:hover{
+    color: #FF5A5A;
+}
+nav{
+    background-color: white;
+    height: 45px;
+    text-align: right;
+    padding: 10px;
+}
+nav img{
+    float: left;
+    
+}
+.text p{
+    margin: 20px;
+}
+.text h3{
+    margin: 20px;
+}
+.container1 h1{
+    align-items: flex-end;
+    justify-content: center;
+}
+
+header img{
+    height: 55px;
+}
+
+a:hover{
+    color: #FF5A5A;
+}
+
+
+.text p{
+    margin: 20px;
+}
+
+.container1 h1{
+    align-items: flex-end;
+    justify-content: center;
+}
+
+
+.container{
+    background-color: #ddd;
+}
+.flex-container{
+    display: flex;
+}
+.flex-item1{
+    background-color: #403D3D;
+    width: 150%;
+    height: 1000px;
+}
+
+.flex-item2{
+    background-color: #FF5A5A;
+    width: 150%;
+    height: 1000px;
+}
+.text h1{
+    margin-left: 400px;
+}
+p{
+    color: #403D3D;
+    font-family: quicksand;
+    font-size: 20px;
+    line-height: 30px;
+}
+h2{
+    font-family: quicksand;
+    padding-top: 30px;
+    padding-left: 13px;
+    color: #403D3D;
+    font-size: 30px;
+}
+
+.oliver img{
+    border-radius: 200px;
+    height: 300px;
+    width: 300px;
+    float: right;
+}
+.oliver{
+    margin-top: 10%;
+}
+.text{
+    margin-top: 10%;
+}
+.gray{
+    font-size: 100px;
+    text-align: left;
+    color: #403D3D;
+    padding-top: 30px;
+    padding-left: 20px;
+    font-family: Stick No Bills;
+}
+.red{
+    color: #FF5A5A;
+    font-size: 100px;
+    text-align: right;
+    padding-top: 30px;
+    padding-right: 20px;
+    font-family: Stick No Bills;
+}
